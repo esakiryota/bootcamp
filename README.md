@@ -28,3 +28,9 @@ yarn install
   - `react`、`react-dom`、`webpack`、`webpack-cli`、`webpack-dev-server`で構成された最小限の React プロジェクトです。
 - `react-typescript`
   - 上記の構成に加え、TypeScript を導入している React プロジェクトです。
+
+### `prettier`の実行
+
+```
+npx prettier --check .
+```
