@@ -16,7 +16,7 @@ CA 1Day Youth Boot Camp フロントエンド　ハンズオンリポジトリ�
 
 `course`ディレクトリにハンズオン用のファイルを格納しています。
 
-yarn workspace を使ってmonorepo化しています。カレントディレクトリで以下を実行すれば依存モジュールがインストールできます。
+yarn workspace を使って monorepo 化しています。カレントディレクトリで以下を実行すれば依存モジュールがインストールできます。
 
 ```shell
 yarn install

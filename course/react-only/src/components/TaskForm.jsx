@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export const TaskForm = () => {
   // フォームの値を保持する
@@ -7,7 +7,5 @@ export const TaskForm = () => {
 
   // 完了したTaskを削除する
 
-  return (
-    <></>
-  );
+  return <></>;
 };
